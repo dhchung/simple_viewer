@@ -17,8 +17,8 @@ sudo apt-get install libopengl-dev libpcl-dev qt5-default
 ```
 cd {Package Directory}
 mkdir build && cd build
-cmake ..
-make
+cmake -DCMAKE_BUILD_TYPE=Release ..
+cmake --build .
 cd ..
 ./build/simple_viewer
 ```
