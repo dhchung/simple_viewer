@@ -1,7 +1,7 @@
 # Simple Point Cloud Viewer using QT & OpenGL
 
 ## Requirements 
-### ([Important!] not sure since I haven't tested it in a empty computer)
+### ([Important!] not sure since I haven't tested it in an empty computer)
 OpenGL
 
 PCL
